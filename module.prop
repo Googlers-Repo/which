@@ -1,7 +1,7 @@
 id=which
 name=which root hide
-version=1.0.0
-versionCode=100
+version=1.0.1
+versionCode=101
 author=Der_Googler
 description=A binariy that excludes root related binaries
 mmrlCategories=System
